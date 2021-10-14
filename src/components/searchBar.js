@@ -4,6 +4,7 @@ import { Field, reduxForm } from "redux-form";
 class SearchBar extends Component {
   handleFormSubmit = function ({ query }) {
     console.log("handleSubmit query:", query);
+    //nav to new route
   };
 
   renderInput(field) {
