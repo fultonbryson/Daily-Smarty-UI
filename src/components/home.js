@@ -7,10 +7,12 @@ import RecentPosts from "./recentPosts";
 export default class Home extends Component {
   render() {
     return (
-      <div className='app'>
-        <Logo />
-        <SearchBar />
-        <RecentPosts />
+      <div>
+        <div>
+          <Logo />
+          <SearchBar />
+          <RecentPosts />
+        </div>
       </div>
     );
   }
