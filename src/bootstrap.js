@@ -19,7 +19,7 @@ function main() {
       <BrowserRouter>
         <Switch>
           <Route path='/' component={Home} />
-          <Route path='results' component={Results} />
+          <Route path='/results' component={Results} />
         </Switch>
       </BrowserRouter>
     </Provider>,
