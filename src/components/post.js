@@ -56,7 +56,7 @@ class Post extends Component {
                 this.setState({ height: 70 });
               }}
               onMouseLeave={() => {
-                this.setState({ height: 0 });
+                this.setState({ height: 70 });
               }}>
               {this.props.title}
             </a>
