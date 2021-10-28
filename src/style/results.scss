@@ -10,6 +10,9 @@
 }
 
 .results-posts {
+  display: grid;
+  grid-row-gap: 21px;
+
   .results-posts__wrapper {
     .results-posts__posts {
       display: grid;
