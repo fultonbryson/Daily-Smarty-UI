@@ -4,3 +4,8 @@
   display: grid;
   align-content: space-around;
 }
+
+@mixin default-link-hover {
+  text-decoration: underline;
+  font-weight: 600;
+}
