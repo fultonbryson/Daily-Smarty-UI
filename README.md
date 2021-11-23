@@ -1,5 +1,4 @@
-# React/Redux/Router Starter Project
+# DailySmarty Search Engine UI
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> User interface to search for posts at www.dailysmarty.com
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
